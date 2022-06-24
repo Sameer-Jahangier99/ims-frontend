@@ -6,6 +6,7 @@
   "bugs": {
     "url": "https://github.com/coreui/coreui-free-react-admin-template/issues"
   },
+  
   "repository": {
     "type": "git",
     "url": "git@github.com:coreui/coreui-free-react-admin-template.git"
@@ -70,7 +71,7 @@
     "web-vitals": "^2.1.4"
   },
   "engines": {
-    "node": ">=10",
-    "npm": ">=6"
+    "node": "14.17.0",
+    "npm": "6.14.13"
   }
 }
