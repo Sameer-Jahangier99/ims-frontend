@@ -1,0 +1,1 @@
+export const imageUrl = 'https://ims-backend-app.herokuapp.com/public/images/'
